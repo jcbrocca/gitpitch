@@ -1,19 +1,4 @@
----
-title: "Pyton"
-subtitle: "Introducción"
-author: "jcb"
-date: "23 de julio de 2018"
-output: 
-  ioslides_presentation:
-    logo: ./images/LOGOUNC.gif
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(python.reticulate = FALSE)
-```
-
-
-## El lenguaje Python
+### El lenguaje Python
 
  * Lenguaje de programación multipropósito y multiplataforma
     * Muy versátil, apto para aplicaciones de escritorio, de servidor y/o aplicaciones web
@@ -65,6 +50,8 @@ my-presentation.html?presentme=false
  * El tipado es dinámico
     * Se establece el tipo de una variable de manera dinámica, es decir, en tiempo de ejecución
     * No es necesario declarar previamente el tipo de la variable.
+ 
+---
         
 ## Caracerísticas de Python
  * Lenguaje orientado a objetos
@@ -78,6 +65,7 @@ my-presentation.html?presentme=false
 ## Código fuente y bytcode
 
 Python es un lenguaje interpretado. Sin embargo el intérprete genera archivos binarios que son los que se ejecutan.
+
 Este proceso se realiza de manera transparente a partir de los archivos fuente (.py) y el código generado se conoce como _bytcode_ y utiliza la extensión .pyc
 
 El programador no interviene en el proceso
