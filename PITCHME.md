@@ -30,9 +30,9 @@
 
 ### Caracerísticas de Python
 
-    * Posée una gramática clara y legible extremadamente fácil de aprender
-        * Prescinde de símbolos especiales (punto y coma al final de cada sentencia, etc)
-        * La curva de aprendizaje del lenguaje es empinada (en poco tiempo se aprende mucho)
+ * Posée una gramática clara y legible extremadamente fácil de aprender
+     * Prescinde de símbolos especiales (punto y coma al final de cada sentencia, etc)
+     * La curva de aprendizaje del lenguaje es empinada (en poco tiempo se aprende mucho)
 
 ---
 
