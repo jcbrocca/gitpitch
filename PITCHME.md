@@ -30,10 +30,9 @@
 
 ### Caracerísticas de Python
 
-    * Posée una gramática clara y legible
-        * Es extremadamente fácil de aprender
-           * Prescinde de símbolos especiales (punto y coma al final de cada sentencia, etc)
-           * La curva de aprendizaje del lenguaje es empinada (en poco tiempo se aprende mucho)
+    * Posée una gramática clara y legible extremadamente fácil de aprender
+        * Prescinde de símbolos especiales (punto y coma al final de cada sentencia, etc)
+        * La curva de aprendizaje del lenguaje es empinada (en poco tiempo se aprende mucho)
 
 ---
 
@@ -47,7 +46,7 @@
 
 ### Caracerísticas de Python
 
- * Es unlenguaje interpretado
+ * Es un lenguaje interpretado
      * El código no necesita ser preprocesado por un compilador
      * Cada instrucción se traduce a lenguaje máquina y - si no se detectan errores - se ejecuta inmediatamente
 
@@ -58,6 +57,11 @@
  * Es fuertemente tipado
     * Distingue claramente el tipo de la variable (entera, carácter, etc)
     * Si se pretende utilizar una variable de un determinado tipo cuando debe ser de otro, se produce un error
+
+---
+
+### Caracerísticas de Python
+
  * El tipado es dinámico
     * Se establece el tipo de una variable de manera dinámica, es decir, en tiempo de ejecución
     * No es necesario declarar previamente el tipo de la variable.
@@ -69,7 +73,7 @@
  * Lenguaje orientado a objetos
     * Paradigma de programación que usa objetos y sus interacciones
     * Los objetos son entidades que combinan estado (atributo), comportamiento (método) e identidad
- * Biblioteca estándar muy amplia
+ * Posée un conjunto de implementaciones (_biblioteca_) estándar muy amplia
     *  Contiene módulos (escritos en lenguaje C) que proporcionan acceso a las funcionalidades propias del sistema operativo
 
 ---
